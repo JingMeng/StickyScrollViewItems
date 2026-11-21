@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Toast;
 
-import com.emilsjolander.components.StickyScrollViewItems.R;
+import com.emilsjolander.components.StickyScrollViewItems.samples.R;
 
 /**
  * 
